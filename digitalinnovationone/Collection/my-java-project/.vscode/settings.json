@@ -1,0 +1,7 @@
+{
+    "java.home": "C:\\Program Files\\Java\\jdk-11.0.10",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.format.settings.url": "file:///path/to/your/eclipse-formatter.xml",
+    "java.format.settings.profile": "YourProfileName",
+    "java.checkstyle.configuration": "file:///path/to/your/checkstyle.xml"
+}
