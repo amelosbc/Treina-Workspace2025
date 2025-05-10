@@ -1,7 +1,6 @@
-Desafios para a parte de cloud do bootcamp JAVA Cloud
+Desafios para a parte de cloud do bootcamp JAVA Cloud - Azure Cognitive
 
-Materiais Complementares sobre GitHub 
-GitHub Quick Start - Repositório com Link para Aulas de Git e GitHub 
-GitBook: Formação GitHub Certification - Material textual sobre GitHub
-Documentação do GitHub - Guia completo para uso do GitHub 
-GitHub Markdown - Guia específico para Markdown no GitHub 
+Segue sequencia realizada no desafio Azure - Cognitive
+1) Criação de um Azure Service;
+2) Criação de um AI Search
+3) Criação de um Storage para armazenar os documentos
